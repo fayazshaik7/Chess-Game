@@ -5,12 +5,12 @@
 
 **Step1: Handling Ambiguity**
 1. _Six W's:_
-    #####a. Who is going to play this game: Any user who has interest in chess.
-    #####b. What is the game about: A multi player chess game.
-    #####c. Where the game is played: Command line
-    #####d. When the game is played: When there are two players to play.
-    #####e. How the game is played: By giving commands EX: H1 -> B1
-    #####f. Why th user wants to play the game: To have fun!
+    ##### a. Who is going to play this game: Any user who has interest in chess.
+    ##### b. What is the game about: A multi player chess game.
+    ##### c. Where the game is played: Command line
+    ##### d. When the game is played: When there are two players to play.
+    ##### e. How the game is played: By giving commands EX: H1 -> B1
+    ##### f. Why th user wants to play the game: To have fun!
     
 2. How many players can play at a time: 2 (For now, may add a computer to play with the user).
 
@@ -44,19 +44,19 @@
 **step4: Investigate Actions**
 
 1. Game:
-    #####a. Creates a game with Board
-    #####b. Create players
+    ##### a. Creates a game with Board
+    ##### b. Create players
     
 2. Board:
-    #####a. Initializes the board
-    #####b. checks if the cell in the board is available or not
+    ##### a. Initializes the board
+    ##### b. checks if the cell in the board is available or not
 
 3. Move:
-    #####a. Moves piece from one position to other
-    #####b. check movie is valid or not
+    ##### a. Moves piece from one position to other
+    ##### b. check movie is valid or not
 
 4. Piece:
-    #####a. Provide valid moves
+    ##### a. Provide valid moves
     
     
 *** 
